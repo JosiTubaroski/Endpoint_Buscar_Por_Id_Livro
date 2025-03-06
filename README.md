@@ -29,6 +29,10 @@ Vamos debugar para entender passo a passo do que está acontencendo no código.
 
 <img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/03_Tabela_Livros.png"/>
 
+- No método End-point: GET /api/Autor/BuscarAutorPorIdLivro/ {idLivro}, selecionar o "Try it out"
+
+<img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/04_Try_it_out.png"/>
+
 
 
 
