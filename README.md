@@ -63,4 +63,4 @@ Vamos debugar para entender passo a passo do que está acontencendo no código.
 
 #### Selecionar F11 
 
-<https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/07_F11_BuscarAutorPorIdLivro.png
+<img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/07_F11_BuscarAutorPorIdLivro.png"/>
