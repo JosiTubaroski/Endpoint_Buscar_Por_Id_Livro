@@ -41,8 +41,22 @@ Vamos debugar para entender passo a passo do que está acontencendo no código.
 
 <img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/06_Primeiro_Apontamento_Codigo.png"/>
 
+ No <b>debugging</b> do .NET (usando Visual Studio, por exemplo), as teclas <b>F10</b> e <b>F11</b> têm funções diferentes para navegar pelo código durante a depuração:
 
+ ### 🔹 F10 – Step Over (Passar por cima)
 
+ - Executa a linha atual e pula para a próxima, <b>sem entrar em métodos internos</b>.
+ - Se a linha tiver uma chamada de função/método, o código <b>executa esse método inteiro de uma vez</b> e volta para a próxima linha do código atual.
 
+#### 🛠 Quando usar?
 
+- Quando <b>não precisa analisar</b> os detalhes de um método e só quer ver o fluxo geral do código.
 
+ ### 🔹 F11 – Step Into (Entrar no método)
+
+ - Executa a linha atual, mas entra dentro do método chamado, permitindo ver seu código linha por linha.
+ - Se a linha atual chamar uma função, você será levado <b>para dentro do código dessa função</b>.
+
+#### 🛠 Quando usar?
+
+- Quando quer <b>investigar um método específico</b> para entender sua execução.
