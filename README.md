@@ -64,3 +64,8 @@ Vamos debugar para entender passo a passo do que está acontencendo no código.
 #### Selecionar F11 
 
 <img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/07_F11_BuscarAutorPorIdLivro.png"/>
+
+#### O que acontece?
+
+1. O debugger <b>entra dentro do método</b> BuscarAutorPorIdLivro(idLivro), que está definido na interface _autorInterface e implementado em alguma classe concreta.
+2. Ele <b>seguirá para a implementação desse método</b> e você poderá depurar linha por linha dentro dele.
