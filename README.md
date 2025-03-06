@@ -37,6 +37,10 @@ Vamos debugar para entender passo a passo do que está acontencendo no código.
 
 <img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/05_Incluir_CodigoLivro.png"/>
 
+- Ao selecionar <b>Execute</b>, o sistema roda até o Breakpoint
+
+<img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/06_Primeiro_Apontamento_Codigo.png"/>
+
 
 
 
