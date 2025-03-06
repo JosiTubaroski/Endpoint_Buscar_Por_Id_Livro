@@ -29,11 +29,13 @@ Vamos debugar para entender passo a passo do que está acontencendo no código.
 
 <img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/03_Tabela_Livros.png"/>
 
-- No método End-point: GET /api/Autor/BuscarAutorPorIdLivro/ {idLivro}, selecionar o "Try it out"
+- No método End-point: GET /api/Autor/BuscarAutorPorIdLivro/ {idLivro}, selecionar o <b>"Try it out"</b>
 
 <img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/04_Try_it_out.png"/>
 
+- Incluir código 1 e selecionar <b>Execute</b>
 
+<img src="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/05_Incluir_CodigoLivro.png"/>
 
 
 
