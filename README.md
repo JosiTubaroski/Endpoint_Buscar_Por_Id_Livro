@@ -60,3 +60,7 @@ Vamos debugar para entender passo a passo do que está acontencendo no código.
 #### 🛠 Quando usar?
 
 - Quando quer <b>investigar um método específico</b> para entender sua execução.
+
+#### Selecionar F11 
+
+<https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro/blob/main/img/07_F11_BuscarAutorPorIdLivro.png
